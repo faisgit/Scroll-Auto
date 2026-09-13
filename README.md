@@ -60,8 +60,11 @@ If side-loading the APK shows **"Restricted setting: For your security, this set
 
 ## 📥 Download & Installation Guide
 
+- 📲 **Get App (Direct APK)**: [`get-app`](build/app/outputs/flutter-apk/app-release.apk)
+- 📍 **Local File Path**: `build/app/outputs/flutter-apk/app-release.apk` (43.8 MB)
+
 ### Option A: Install Direct APK on Phone
-1. Download the pre-compiled [`app-release.apk`](file:///c:/Users/fa171/Desktop/auto_scroll_screen/build/app/outputs/flutter-apk/app-release.apk).
+1. Download the pre-compiled [`get-app`](build/app/outputs/flutter-apk/app-release.apk).
 2. Transfer or open the APK file on your Android device.
 3. If Google Play Protect shows *"App blocked to protect your device"*:
    - Tap **"More details"** -> Tap **"Install anyway"**.
